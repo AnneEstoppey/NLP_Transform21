@@ -1,0 +1,13 @@
+# Jupyter notebook 'system' files
+**/.ipynb_checkpoints/
+
+# Tests & references
+/notebooks/test.ipynb
+
+# Test data files
+/data/prod_lic_mini.geojson
+
+# Previous versions of published notebooks
+/old/
+
+

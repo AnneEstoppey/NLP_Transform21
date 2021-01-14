@@ -10,4 +10,6 @@
 # Previous versions of published notebooks
 /old/
 
+# Temporary files
+/temp/
 

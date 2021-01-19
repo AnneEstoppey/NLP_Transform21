@@ -3,6 +3,7 @@
 
 # Tests & references
 /notebooks/test.ipynb
+/notebooks/test2.ipynb
 
 # Test data files
 /data/prod_lic_mini.geojson
@@ -12,4 +13,3 @@
 
 # Temporary files
 /temp/
-

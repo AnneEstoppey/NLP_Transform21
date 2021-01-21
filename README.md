@@ -2,9 +2,11 @@
 This is totally UNDER CONSTRUCTION! :-)
 
 In this repo we will work with Wellbore report summaries from Norwegian Petroleum Directorate (NPD). 
-The wellbore datasets are public domain and are available here: https://hotell.difi.no/?dataset=npd/wellbore/with-history (well report summaries).
-Please check out notebook here:
-(under construction)
+The wellbore datasets are public domain and are available here: https://hotell.difi.no/?dataset=npd/wellbore/with-history (well report summaries).</br>
+Please check out notebook here:</br>
+```
+/notebooks/NLP_transform21_V01.ipynb
+```
 
 ## General description of workflow:
 - Get request to NPD wellbore tables via API, we are interested in 1) wells with coordinates (with-coordinates) and 2) wells with report summary (with-history)

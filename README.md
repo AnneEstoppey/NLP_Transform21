@@ -18,9 +18,5 @@ Please check out notebook here:</br>
 - Further NLP analysis (under construction) with visualisations
 
 ## Teasers!
-<p align="center">
 <img src="images/wells_with_report_summary.png" width="750">
-</p>
-<p align="center">
 <img src="images/wordcloud_well_1_2-1.jpg" width="400">
-</p>

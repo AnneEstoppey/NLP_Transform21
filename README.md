@@ -1,4 +1,16 @@
 # NLP_Transform21
-This is totally under construction! :-)
+This is totally UNDER CONSTRUCTION! :-)
 
-This is an attempt to build up a NLP project for the Transform 2021 conference organised by Agile.
+In this repo we will work with Wellbore report summaries from Norwegian Petroleum Directorate (NPD). 
+The wellbore datasets are public domain and are available here: https://hotell.difi.no/?dataset=npd/wellbore/with-history (well report summaries).
+Please check out notebook here:
+(under construction)
+
+## General description of workflow:
+- Get request to NPD wellbore tables via API, we are interested in 1) wells with coordinates (with-coordinates) and 2) wells with report summary (with-history)
+- Reformating into pandas dataframes - merging of dataframe with coordinates together with dataframe with report summaries
+- Visualisation on maps for QC and evaluation of how the data is distributed geographically (North Sea, Norwegian Sea, Barents)
+- Cleaning of summaries (removing tags, etc)
+- Pre processing for NLP (removing stopwords, tokenisation, etc)
+- Exploring wells with WordClouds
+- Further NLP analysis (under construction) with visualisations

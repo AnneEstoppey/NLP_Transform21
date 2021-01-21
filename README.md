@@ -5,7 +5,7 @@ In this repo we will work with Wellbore report summaries from Norwegian Petroleu
 The wellbore datasets are public domain and are available here: https://hotell.difi.no/?dataset=npd/wellbore/with-history (well report summaries).</br>
 Please check out notebook here:</br>
 ```
-/notebooks/NLP_transform21_V01.ipynb
+/notebooks/NLP_transform21_v01.ipynb
 ```
 
 ## General description of workflow:

@@ -16,3 +16,8 @@ Please check out notebook here:</br>
 - Pre processing for NLP (removing stopwords, tokenisation, etc)
 - Exploring wells with WordClouds
 - Further NLP analysis (under construction) with visualisations
+
+## Teasers!
+<br>
+<img src="images/wordcloud_well_1_2-1.jpg" width="500">
+<br>

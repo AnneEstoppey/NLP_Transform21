@@ -1,4 +1,6 @@
 # NLP_Transform21
+UPDATE: I will post the final version of this notebook right before TRANSFORM 2021 conference, so check it out again mid April!
+
 This is totally UNDER CONSTRUCTION! :-)
 
 In this repo we will work with Wellbore report summaries from Norwegian Petroleum Directorate (NPD). 

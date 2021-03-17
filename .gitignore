@@ -4,6 +4,7 @@
 # Tests & references
 /notebooks/test.ipynb
 /notebooks/test2.ipynb
+/notebooks/test/
 
 # Test data files
 /data/prod_lic_mini.geojson

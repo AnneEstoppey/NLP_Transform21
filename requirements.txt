@@ -1,0 +1,13 @@
+pandas
+numpy
+geopandas
+nltk
+sklearn
+spacy
+gensim
+pyLDAvis
+plotly
+wordcloud
+jupyter
+ipykernel
+

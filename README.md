@@ -24,5 +24,5 @@ Link to conference: [TRANSFORM 2021 conference](https://softwareunderground.org/
 - Conclusions, what to do next?
 
 ## Teasers!
-<img src="images/wells_with_report_summary.png" width="750">
+<img src="images/well_map_with_popup.jpg" width="750">
 <img src="images/wordcloud_well_1_2-1.jpg" width="400">

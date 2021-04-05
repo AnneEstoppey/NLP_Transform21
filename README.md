@@ -11,7 +11,7 @@ Please check out notebook here:</br>
 ```
 Link to conference: [TRANSFORM 2021 conference](https://softwareunderground.org/transform-2021)
 
-## In this notebook, we will:
+## In this notebook, we will go through the following steps:
 - Get request to NPD wellbore tables via API, we are interested in:
  1) wells with coordinates (with-coordinates) and 
  2) wells with report summary (with-history)

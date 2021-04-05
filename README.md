@@ -21,6 +21,7 @@ Link to conference: [TRANSFORM 2021 conference](https://softwareunderground.org/
 - Pre processing for NLP (removing stopwords, tokenisation, lemmatization)
 - Exploring wells with WordClouds
 - Further NLP analysis: topic modeling and visualisation with pyLDAvis
+- Conclusions, what to do next?
 
 ## Teasers!
 <img src="images/wells_with_report_summary.png" width="750">

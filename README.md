@@ -28,4 +28,4 @@ Link to conference: [TRANSFORM 2021 conference](https://softwareunderground.org/
 <img src="images/wordcloud_well_1_2-1.jpg" width="400">
 <b>Topic modeling with pyLDAvis:</b><br>
 <br>
-<img src="images/topic_modeling_pyLDAvis.jpg" width="750">
+<img src="images/topic_modeling_pyLDAvis.jpg" width="800">

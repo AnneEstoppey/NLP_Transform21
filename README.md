@@ -1,6 +1,5 @@
 # NLP_Transform21
 
-## In this repo we will work with Wellbore report summaries from Norwegian Petroleum Directorate (NPD). 
 In this Jupyter Notebook, we will explore different aspects of NLP (Natural Language Processing). We will use well report summaries which are published by the NPD (Norwegian Petroleum Directorate), by requesting via an API. We will go through the different stages of text cleaning and formatting before moving on to NLP processing: tockenization, lemmatization and finally topic modeling.</br>
 Please check out notebook here:</br>
 ```

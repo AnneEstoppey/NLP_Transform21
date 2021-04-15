@@ -9,8 +9,8 @@ Link to conference: [TRANSFORM 2021 conference](https://softwareunderground.org/
 
 ## In this notebook, we will go through the following steps:
 - Get request to NPD wellbore tables via API, we are interested in:
- 1) wells with coordinates (with-coordinates) and 
- 2) wells with report summary (with-history)
+  - wells with coordinates (with-coordinates) and 
+  - wells with report summary (with-history)
 - Reformating using pandas dataframes - merging of dataframe with coordinates together with dataframe with report summaries
 - Visualisation on maps for QC and evaluation of how the data is distributed geographically (North Sea, Norwegian Sea, Barents)
 - Cleaning of summaries (removing tags, etc)

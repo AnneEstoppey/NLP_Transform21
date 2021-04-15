@@ -1,10 +1,7 @@
 # NLP_Transform21
 
-### UPDATE: 
-I will post the final version of this notebook right before TRANSFORM 2021 conference, so check it out again mid April!
-
-In this repo we will work with Wellbore report summaries from Norwegian Petroleum Directorate (NPD). 
-The wellbore datasets are public domain and are available [here:](https://hotell.difi.no/?dataset=npd/wellbore/with-history) (well report summaries, link to API documentation).</br>
+## In this repo we will work with Wellbore report summaries from Norwegian Petroleum Directorate (NPD). 
+In this Jupyter Notebook, we will explore different aspects of NLP (Natural Language Processing). We will use well report summaries which are published by the NPD (Norwegian Petroleum Directorate), by requesting via an API. We will go through the different stages of text cleaning and formatting before moving on to NLP processing: tockenization, lemmatization and finally topic modeling.</br>
 Please check out notebook here:</br>
 ```
 /notebooks/NLP_transform21_v01.ipynb

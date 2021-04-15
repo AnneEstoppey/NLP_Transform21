@@ -3,7 +3,7 @@
 In this Jupyter Notebook, we will explore different aspects of NLP (Natural Language Processing). We will use well report summaries which are published by the NPD (Norwegian Petroleum Directorate), by requesting via an API. We will go through the different stages of text cleaning and formatting before moving on to NLP processing: tockenization, lemmatization and finally topic modeling.</br>
 Please check out notebook here:</br>
 ```
-/notebooks/NLP_transform21_v01.ipynb
+/notebooks/NLP_transform21_v01_work.ipynb
 ```
 Link to conference: [TRANSFORM 2021 conference](https://softwareunderground.org/transform-2021)
 

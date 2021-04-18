@@ -129,7 +129,7 @@ apollo,4
 apollon,1
 appearance,9
 appr,1
-appraisal,1028
+appraisal,1032
 approach,2
 approx,10
 apr,1
@@ -146,7 +146,7 @@ aquifer,2
 aquitaine,1
 ar,1
 arcade,4
-arch,16
+arch,17
 archipelago,3
 arco,1
 arctic,14
@@ -227,7 +227,7 @@ balling,2
 ballooning,1
 band,12
 bank,83
-bar,258
+bar,259
 bara,4
 baradril,2
 baraecd,1
@@ -263,7 +263,7 @@ bbls,4
 bcpd,1
 bcu,40
 bean,1
-bearing,728
+bearing,732
 bed,286
 bedrock,3
 beerensberg,1
@@ -301,7 +301,7 @@ bivrost,1
 bjaaland,1
 bjarmeland,19
 bjarmøyrenna,1
-bjørgvin,24
+bjørgvin,25
 bjørk,1
 bjørn,2
 bjørnøya,11
@@ -369,7 +369,7 @@ brage,30
 braid,1
 branch,1
 brand,3
-brasse,7
+brasse,9
 brattholman,1
 bravo,2
 brea,1
@@ -458,7 +458,7 @@ canon,1
 canyon,2
 cap,66
 capacity,8
-cape,24
+cape,32
 cara,1
 carbargillite,3
 carbo,18
@@ -483,7 +483,7 @@ catcher,5
 category,2
 cation,1
 cato,1
-cause,14
+cause,15
 causing,2
 cavern,1
 caving,21
@@ -536,7 +536,7 @@ chert,9
 cherty,1
 chft,2
 chimney,3
-chip,14
+chip,15
 chist,1
 chloride,15
 chlorine,1
@@ -586,7 +586,7 @@ cmr,1
 cm³,2
 cnl,5
 co,120
-coal,172
+coal,173
 coalification,1
 coaly,7
 coarse,8
@@ -610,7 +610,7 @@ collect,1
 collection,4
 coloration,1
 colour,16
-column,393
+column,394
 combat,2
 combination,19
 combine,1
@@ -622,7 +622,7 @@ comment,1
 commercial,1
 commerciality,4
 commitment,35
-communication,180
+communication,183
 compaction,6
 company,1
 comparison,9
@@ -655,7 +655,7 @@ conclude,3
 conclusion,8
 concretion,1
 condansate,1
-condensate,491
+condensate,492
 condensation,1
 condition,155
 conditioning,4
@@ -691,7 +691,7 @@ constant,1
 constituent,1
 constitute,2
 consumption,1
-contact,1016
+contact,1018
 contain,40
 contaminant,3
 contamination,94
@@ -717,7 +717,7 @@ coordinate,3
 copper,2
 coquina,1
 coral,5
-core,1907
+core,1908
 cored,8
 corer,1
 coriband,6
@@ -804,7 +804,7 @@ database,3
 dataset,1
 date,16
 dating,4
-datum,478
+datum,479
 david,1
 day,1328
 dcember,1
@@ -813,7 +813,7 @@ ddm,3
 dean,1
 debris,3
 decay,5
-december,300
+december,301
 decimetre,1
 decision,42
 deck,2
@@ -906,7 +906,7 @@ directorate,7
 disappearance,2
 disconnect,2
 discover,1
-discovery,1324
+discovery,1329
 discrepancy,13
 displacement,8
 display,1
@@ -958,17 +958,17 @@ drager,2
 drain,1
 drainage,11
 draining,1
-drake,128
+drake,129
 drape,2
 draugen,42
-draupne,558
+draupne,559
 draw,15
 drawdown,19
 drawing,1
 dri,1
 drift,4
 driftwood,1
-drill,1988
+drill,1991
 drillability,2
 driller,55
 drilling,977
@@ -1007,7 +1007,7 @@ dønna,32
 dønnn,1
 earb,1
 earth,1
-east,448
+east,449
 eastward,5
 ebba,1
 ebm,1
@@ -1118,7 +1118,7 @@ examine,5
 exception,23
 excess,1
 exclude,1
-exhibit,4
+exhibit,5
 exist,1
 existence,16
 existent,1
@@ -1139,7 +1139,7 @@ exposure,3
 expression,1
 expulsion,2
 extend,2
-extension,96
+extension,97
 extent,32
 extention,1
 extract,20
@@ -1170,7 +1170,7 @@ farm,1
 farsund,16
 fashion,1
 fate,1
-fault,570
+fault,571
 faulting,5
 fauna,4
 favor,1
@@ -1186,13 +1186,13 @@ felle,2
 felsic,1
 fenris,1
 fensal,15
-fensfjord,164
+fensfjord,165
 fensford,1
 fernstar,3
 fiberglas,1
 fibre,1
 fibreglass,4
-field,1163
+field,1164
 fifth,1
 figure,7
 fill,16
@@ -1251,13 +1251,13 @@ florescence,1
 florø,2
 flosal,14
 flour,2
-flow,590
+flow,591
 flowing,1
 flowtank,1
 flu,1
 fluctuation,1
 fluid,627
-fluorescence,538
+fluorescence,542
 fluorescent,32
 fluourescence,1
 fluvial,10
@@ -1338,7 +1338,7 @@ garantiana,7
 gardrofa,2
 garja,3
 garn,422
-gas,5759
+gas,5764
 gasoil,1
 gasol,1
 gasoline,1
@@ -1494,7 +1494,7 @@ haapet,1
 hade,2
 hagar,1
 haldager,1
-half,23
+half,24
 halite,1
 halliburton,2
 halokinesis,5
@@ -1616,9 +1616,9 @@ hydril,1
 hydro,9
 hydrocabon,1
 hydrocarbn,1
-hydrocarbon,2660
+hydrocarbon,2668
 hydrogen,53
-hydrostatic,1
+hydrostatic,2
 hyme,4
 hypothesis,1
 hyrokkin,1
@@ -1698,7 +1698,7 @@ insert,1
 insight,2
 inspection,11
 instability,24
-installation,1708
+installation,1711
 installing,1
 instance,4
 instant,1
@@ -1723,7 +1723,7 @@ interpretation,126
 interruption,3
 intersect,2
 intersection,10
-interval,2483
+interval,2484
 intervention,1
 intra,2
 introduction,1
@@ -1785,7 +1785,7 @@ ju,10
 judy,5
 juksa,1
 julius,3
-july,325
+july,326
 jump,2
 junction,3
 june,348
@@ -1885,7 +1885,7 @@ lamination,6
 land,1
 landing,4
 lang,162
-lange,215
+lange,217
 langenuen,1
 langfjellet,6
 language,71
@@ -1972,7 +1972,7 @@ lobe,11
 locality,2
 location,409
 lock,2
-log,978
+log,979
 loge,1
 logger,60
 logging,49
@@ -2091,7 +2091,7 @@ mdt,28
 mean,2
 measurable,2
 measure,12
-measurement,242
+measurement,243
 measuring,1
 mechanism,6
 median,2
@@ -2110,13 +2110,13 @@ mercurius,1
 mercury,1
 mesozoic,3
 metamorphism,1
-meter,327
+meter,331
 meterage,1
 metering,1
 methane,54
 method,10
 methone,1
-metre,164
+metre,167
 metrol,1
 mey,1
 mft,1
@@ -2269,7 +2269,7 @@ neighbouring,24
 nemo,1
 neptune,8
 nesle,1
-ness,69
+ness,70
 nesss,1
 net,54
 nett,1
@@ -2313,7 +2313,7 @@ norol,1
 norsel,1
 norsk,9
 norskald,19
-north,979
+north,981
 northeast,10
 northward,4
 northwest,12
@@ -2325,7 +2325,7 @@ nose,11
 note,2
 nova,2
 novamul,3
-november,281
+november,283
 novus,1
 nozzle,4
 npd,24
@@ -2343,7 +2343,7 @@ obelix,2
 obesum,3
 object,7
 objectiv,1
-objective,1286
+objective,1287
 obligation,15
 obm,43
 obmi,1
@@ -2357,10 +2357,10 @@ occupie,2
 occurrence,12
 occurring,1
 ocean,111
-october,348
+october,349
 odin,16
 odor,1
-odour,45
+odour,48
 odt,32
 ofa,1
 off,2
@@ -2369,7 +2369,7 @@ oga,1
 ogna,1
 ohm,2
 oi,1
-oil,7623
+oil,7636
 oilfaze,2
 oilfield,1
 ole,2
@@ -2391,7 +2391,7 @@ opal,3
 open,1
 opener,10
 opening,36
-operation,2550
+operation,2555
 operationsand,1
 operator,19
 optimus,2
@@ -2407,7 +2407,7 @@ originate,3
 orion,13
 orman,21
 osebeg,1
-oseberg,138
+oseberg,141
 oselvar,6
 oslash,2
 osprey,1
@@ -2462,7 +2462,7 @@ parallel,2
 parameter,46
 paratherm,18
 parent,4
-part,1212
+part,1213
 parted,1
 participant,1
 particle,7
@@ -2477,7 +2477,7 @@ patch,3
 path,69
 pathway,1
 pattern,10
-pay,231
+pay,232
 pcd,1
 pcl,1
 pct,1
@@ -2519,11 +2519,11 @@ pertinent,1
 petro,1
 petrofree,6
 petrojarl,5
-petroleum,154
+petroleum,155
 petronord,1
 pex,1
 pgb,2
-phase,90
+phase,91
 phb,7
 phenol,4
 phenomenon,2
@@ -2542,9 +2542,9 @@ piggvar,10
 piggy,3
 piggyback,1
 pil,12
-pill,415
+pill,418
 pillow,3
-pilot,360
+pilot,361
 pin,2
 pinch,26
 pinche,2
@@ -2640,7 +2640,7 @@ preparation,7
 presence,245
 present,25
 preservation,6
-pressure,1705
+pressure,1711
 pretest,4
 prevent,5
 preventer,4
@@ -2650,7 +2650,7 @@ prinsen,2
 priority,2
 probability,8
 probe,29
-problem,1355
+problem,1358
 problema,1
 problematic,2
 procedure,9
@@ -2662,13 +2662,13 @@ producability,3
 produce,7
 produceability,2
 producer,74
-producible,4
+producible,5
 product,5
-production,474
+production,475
 productive,1
 productivity,43
 profile,15
-prognosis,198
+prognosis,199
 progradation,2
 program,71
 programme,66
@@ -2676,7 +2676,7 @@ progress,19
 project,5
 prolog,1
 propane,4
-property,300
+property,301
 proponol,1
 proportion,9
 proposal,1
@@ -2715,7 +2715,7 @@ qbroxin,1
 qsst,1
 quad,1
 quadrill,2
-quality,689
+quality,693
 quantification,1
 quantity,50
 quarter,3
@@ -2734,7 +2734,7 @@ ragnfrid,5
 rail,1
 ram,7
 range,138
-rannoch,78
+rannoch,79
 rare,1
 ras,1
 rat,6
@@ -2776,7 +2776,7 @@ recording,35
 recover,8
 recoverd,1
 recovered,1
-recovery,466
+recovery,469
 reddish,2
 reduce,3
 reduction,4
@@ -2834,7 +2834,7 @@ response,42
 respud,3
 rest,43
 restriction,15
-result,1465
+result,1467
 retainer,2
 retort,1
 retrieval,1
@@ -2845,7 +2845,7 @@ rev,7
 reverse,1
 reversing,4
 revfall,2
-revfallet,9
+revfallet,10
 revision,2
 rft,552
 rheguard,1
@@ -2859,7 +2859,7 @@ rih,1
 rim,7
 rimfak,1
 rind,1
-ring,12
+ring,15
 ringhorn,5
 ringvasshøy,1
 ringvassøy,5
@@ -2938,17 +2938,17 @@ salinity,13
 salt,260
 saltgel,1
 saltwater,3
-sample,2678
+sample,2682
 sampler,2
 sampling,151
 samson,1
-sand,2501
+sand,2509
 sandaband,2
 sandballer,1
 sandlense,2
 sandne,115
 sandnessjøen,1
-sandstone,3546
+sandstone,3549
 sandy,28
 sank,1
 santonian,2
@@ -2983,7 +2983,7 @@ screen,13
 screening,7
 scythian,2
 sds,1
-sea,1228
+sea,1230
 seabed,56
 seafloor,24
 seal,71
@@ -2997,7 +2997,7 @@ seat,4
 seawater,1013
 sec,3
 second,4
-section,1484
+section,1485
 sectionfrom,2
 sector,27
 securing,2
@@ -3068,7 +3068,7 @@ shore,24
 shoreface,3
 shot,15
 shoulder,1
-show,1938
+show,1943
 shrinkage,1
 shut,24
 shutdown,2
@@ -3103,7 +3103,7 @@ sinbad,2
 sinemurian,1
 site,54
 situ,5
-situation,65
+situation,67
 size,54
 skade,38
 skagerrak,338
@@ -3158,7 +3158,7 @@ soda,8
 sodium,17
 sof,1
 sogn,8
-sognefjord,220
+sognefjord,222
 soil,4
 sol,1
 sola,17
@@ -3175,7 +3175,7 @@ sonan,1
 sonar,3
 sonat,3
 sone,1
-songa,56
+songa,57
 sonic,2
 sotbakken,1
 source,272
@@ -3259,7 +3259,7 @@ steel,3
 steering,3
 steinbit,10
 steinkobbe,1
-stem,1556
+stem,1559
 stena,29
 step,16
 stepping,2
@@ -3426,10 +3426,10 @@ terrace,230
 territory,1
 tertiary,3
 tes,1
-test,3988
+test,3992
 teste,2
 tester,7
-testing,1759
+testing,1762
 testis,2
 testrak,2
 tethy,2
@@ -3447,7 +3447,7 @@ thetarbert,1
 thevigdi,1
 thick,2
 thickening,6
-thickness,326
+thickness,327
 thief,4
 thin,1
 thing,1
@@ -3528,7 +3528,7 @@ transgressive,6
 transient,1
 transit,1
 transition,40
-transocean,199
+transocean,201
 transport,3
 transworld,2
 trap,93
@@ -3555,7 +3555,7 @@ tripping,8
 tritium,4
 triton,1
 trol,10
-troll,108
+troll,109
 trolla,1
 trolley,2
 trom,11
@@ -3630,7 +3630,7 @@ understanding,18
 undertake,1
 uniform,1
 union,1
-unit,380
+unit,382
 unknown,1
 unload,1
 up,10
@@ -3728,7 +3728,7 @@ vsi,1
 vsp,30
 vug,3
 vuggy,3
-vulture,8
+vulture,12
 waage,2
 wait,1
 wall,34
@@ -3739,7 +3739,7 @@ warrant,3
 wash,6
 washing,6
 washout,11
-water,3981
+water,3987
 waterbearing,1
 waterflow,2
 wave,5
@@ -3774,7 +3774,7 @@ white,1
 whitish,3
 whole,1
 width,1
-wildcat,1014
+wildcat,1015
 wilh,4
 wilhelmsen,1
 winch,2
@@ -3808,7 +3808,7 @@ xc,9
 xenon,1
 xlot,1
 xp,30
-xpt,10
+xpt,11
 xrd,1
 yard,2
 yatzy,5

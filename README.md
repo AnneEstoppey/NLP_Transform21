@@ -6,7 +6,7 @@ Please check out notebook here:</br>
 ```
 /notebooks/NLP_transform21_v01_work.ipynb
 ```
-Link to conference: [TRANSFORM 2021 conference](https://softwareunderground.org/transform-2021)
+Link to presentation video: https://youtu.be/Sh_zgiptTqw
 
 ## In this notebook, we will go through the following steps:
 - Get request to NPD wellbore tables via API, we are interested in:

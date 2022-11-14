@@ -21,7 +21,7 @@ Link to presentation video: https://youtu.be/Sh_zgiptTqw
 - Conclusions, what to do next?
 
 ## Teasers!
-<img src="master/images/well_map_with_popup.jpg" width="750">
+<img src="images/well_map_with_popup.jpg" width="750">
 <img src="images/wordcloud_well_1_2-1.jpg" width="400">
 <b>Topic modeling with pyLDAvis:</b><br>
 <br>

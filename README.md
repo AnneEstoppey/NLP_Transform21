@@ -21,8 +21,11 @@ Link to presentation video: https://youtu.be/Sh_zgiptTqw
 - Conclusions, what to do next?
 
 ## Teasers!
-<img src="https://user-images.githubusercontent.com/35219455/236476784-2c9b590a-b967-40c1-9ce2-57912d07eadf.jpg" width="750">
-<br><img src="https://user-images.githubusercontent.com/35219455/236476971-51bbce04-2ac3-4bb0-9539-e731b6aac349.jpg" width="400">
-<b>Topic modeling with pyLDAvis:</b><br>
-<br>
-<img src="https://user-images.githubusercontent.com/35219455/236477082-04736200-282a-41ea-8f25-b3ca0f36a478.jpg" width="850">
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/35219455/236476784-2c9b590a-b967-40c1-9ce2-57912d07eadf.jpg" width="750">
+   <img src="https://user-images.githubusercontent.com/35219455/236476971-51bbce04-2ac3-4bb0-9539-e731b6aac349.jpg" width="400">
+</p>
+<b>Topic modeling with pyLDAvis:</b>
+<br><p align="left">
+   <img src="https://user-images.githubusercontent.com/35219455/236477082-04736200-282a-41ea-8f25-b3ca0f36a478.jpg" width="850">
+</p>

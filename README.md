@@ -21,8 +21,8 @@ Link to presentation video: https://youtu.be/Sh_zgiptTqw
 - Conclusions, what to do next?
 
 ## Teasers!
-<img src="images/well_map_with_popup.jpg" width="750">
-<img src="images/wordcloud_well_1_2-1.jpg" width="400">
+<img src="https://user-images.githubusercontent.com/35219455/236476784-2c9b590a-b967-40c1-9ce2-57912d07eadf.jpg" width="750">
+<br><img src="https://user-images.githubusercontent.com/35219455/236476971-51bbce04-2ac3-4bb0-9539-e731b6aac349.jpg" width="400">
 <b>Topic modeling with pyLDAvis:</b><br>
 <br>
-<img src="images/topic_modeling_pyLDAvis.jpg" width="850">
+<img src="https://user-images.githubusercontent.com/35219455/236477082-04736200-282a-41ea-8f25-b3ca0f36a478.jpg" width="850">
